@@ -4,9 +4,7 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
 .env.backup
-.env.production
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
@@ -18,3 +16,4 @@ yarn-error.log
 /.vscode
 
 .vercel
+config.bat
